@@ -1,5 +1,4 @@
-# goeuro-devtest
-Code for GoEuro dev test Documentation
+# Code for GoEuro dev test Documentation
 	Assumptions made
 		The location service will not return data having comma (",").
 		GoEuro location service will always _id, name, type, latitude and longitude will never be null
