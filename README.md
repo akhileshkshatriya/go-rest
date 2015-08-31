@@ -1,4 +1,5 @@
 # GoEuro dev test
+	The Jar (GoEuroTest.jar) could be directly be found in root also it could be generated in target directory	with maven command "clean compile assembly:single"	
 	Assumptions
 		The location service will not return data having comma (",").
 		GoEuro location service will always return _id, name, type, latitude and longitude will never be null
