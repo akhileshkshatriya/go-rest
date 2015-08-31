@@ -3,8 +3,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.goeuro.test</groupId>
-	<artifactId>locationservice-devtest</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>GoEuroTest</artifactId>
+	<version>1.0.RELEASE</version>
 	<packaging>jar</packaging>
 
 	<name>locationservice-devtest</name>
@@ -60,7 +60,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>GoEuroTest</finalName>
+		
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
