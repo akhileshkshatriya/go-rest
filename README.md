@@ -27,7 +27,3 @@ The development has been carried out with Test Driven Development with 90% code 
 ### Assumptions Made
 * The location service will not return data having comma (",").
 * GoEuro location service will always return _id, name, type, latitude and longitude will never be null
-
-
-
-
